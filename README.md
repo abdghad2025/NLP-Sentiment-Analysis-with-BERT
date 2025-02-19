@@ -53,7 +53,8 @@ The model’s performance is evaluated using:
 - Precision
 - Recall
 - F1-Score
-These metrics are displayed in a classification report after evaluating the model on the test set.
+These metrics
+are displayed in a classification report after evaluating the model on the test set.
 
 ## Advanced Analysis
 - Confusion Matrix: For visualizing the classification performance.
