@@ -49,10 +49,10 @@ pip install transformers[torch] accelerate -U
 ## Evaluation Metrics
 The model’s performance is evaluated using:
 
-. Accuracy
-. Precision
-. Recall
-. F1-Score
+- Accuracy
+- Precision
+- Recall
+- F1-Score
 These metrics are displayed in a classification report after evaluating the model on the test set.
 
 ## Advanced Analysis
